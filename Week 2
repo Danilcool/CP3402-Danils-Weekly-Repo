@@ -1,0 +1,21 @@
+
+Learning Activities & Resources
+Watching learning videos provided by the lecture presentation 
+
+- https://www.youtube.com/watch?v=6vcBKwnl_Y0
+- WordPress Intoruction documentation 
+- 
+Estimated hours
+Around 4 hours
+
+Content Insights
+Child themes allow for the editing of existing themes without needing modify the main Theme. This allows for customization, without the worry of permanently editing the original design.
+A child theme also allow for the edits to be saved and not be affected by updates to the theme.
+If changes had be made to the original theme, then when an update comes out for the theme, these changes can be overwritten and lost.
+However if a child theme was used instead, when these updates come out the changes can still be applied to the theme as they run off a separate file and the user doesn't have to worry about the changes they created being removed or needing to choose whether or not to update a theme or not.
+
+Career/Employability/Learning Insights
+Child themes are actively used by website designers to be able to make edits to sites, without needing to worry about changing the complete design of the template.
+I understand using child themes make styling more efficient and able to make changes and not worry about them being removed.
+However as they as for a specific area of development I don't know if I would be using them in the future as This is not an area I am looking at pursuing for my career.
+It was interesting learning about what back end developers go through to create the work they do, But it all depends on where my career goes in the future, as to if I am using child themes in the future.
